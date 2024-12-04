@@ -1,6 +1,5 @@
 {
   "name": "redux-intro",
-  "homepage": "https://nadyozha.github.io/The_React-Redux_Bank",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
