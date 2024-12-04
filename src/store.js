@@ -6,7 +6,8 @@ const store = configureStore({
 	reducer: {
 		account: accountReducer,
 		customer: customerReducer,
-	}
+	},
+	devTools: process.env.NODE_ENV !== 'production',
 });
 
 export default store;
