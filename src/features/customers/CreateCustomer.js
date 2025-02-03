@@ -14,7 +14,7 @@ function Customer() {
   }
 
   return (
-    <div>
+    <div className="create-customer">
       <h2>Create new customer</h2>
       <div className="inputs">
         <div>
